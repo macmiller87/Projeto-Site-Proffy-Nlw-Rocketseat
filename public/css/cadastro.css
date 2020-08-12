@@ -1,0 +1,20 @@
+body {
+    background-color: blueviolet;
+    background-image: url(../images/success-background.svg);
+    background-position: 6rem;
+    position: fixed;
+}
+
+#text {
+    font-size: 80px;
+    color: rgb(139, 226, 139);
+    text-align: center;
+    padding-left: 30rem;
+    margin-top: 140px;
+}
+
+#img {
+    position: fixed;
+    padding-left: 48rem;
+    margin-top: -158px;
+}
